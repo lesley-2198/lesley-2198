@@ -1,4 +1,6 @@
-# 💫 About Me:
+## 👋 Hi, I'm Lesley!  
+Welcome to my GitHub profile! I'm a passionate developer working on innovative projects.
+
 🎓 Currently in my final year pursuing a Bachelor's Degree in Information Technology at Nelson Mandela University<br>
 🌱 Currently learning new tech and improving my skills<br>
 🔭 Working on PropertyQuest, a real estate platform built with Angular<br>
