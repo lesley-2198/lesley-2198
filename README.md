@@ -1,72 +1,152 @@
-<img width="1584" height="396" alt="Lesley Ngcobo banner" src="https://github.com/user-attachments/assets/4648043b-7f9c-4be5-89fc-a363c023a73f" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+data+into+intelligence.;Exploring+machine+learning+systems.;R+enthusiast+|+ML+practitioner+|+Insight+seeker&center=true&width=800&height=45&color=2F80ED&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <h1>👋 Hello, I’m Lesley Ngcobo</h1>
+  <h1>👋 Hey, I'm Lesley Ngcobo</h1>
   <p>
-    <strong>Data Alchemist & Insight Explorer</strong><br>
-    · ✉️ s225171406@mandela.ac.za ·
+    <strong>Data Scientist · Machine Learning Explorer · R Enthusiast</strong><br>
+    <img src="https://img.shields.io/badge/Email-s225171406@mandela.ac.za-blue?style=flat-square" />
   </p>
+  <img src="https://raw.githubusercontent.com/roshanlam/roshanlam/master/assets/matrix.gif" width="250" alt="matrix gif"/>
 </div>
 
 ---
 
-## 🧠 About Me  
-I’m a data storyteller on a mission to turn numbers into narratives. With a background in Information Technology from Nelson Mandela University, I blend statistical rigor with creative visualization to uncover the “why” behind the data.
-
-- 🎓 **Bachelor of IT** — Nelson Mandela University  
-- 🌱 **Currently Diving Into:**  
-  - Advanced statistical modeling (think Bayesian inference and time series forecasting)  
-  - Power BI dashboards that breathe life into KPIs  
-- 🔍 **Passionate Projects:**  
-  - **R‑Powered Recommender System**: Crafting personalized suggestions that learn from user behaviour.  
-  - **Credit Card Fraud Detector**: Building ensemble models in R to spot anomalies in real time.  
-- 💡 **Core Strengths:**  
-  - _Tidyverse wizardry_ for data cleaning and transformation  
-  - _ggplot2_ artistry for crafting intuitive, publication‑quality charts  
-  - Designing scalable analytics pipelines in RStudio and SQL  
+## 🧠 About Me
+🚀 I'm an aspiring Data Scientist blending statistics, machine learning, and storytelling to solve real-world problems through data.  
+🎓 With a foundation in **Information Technology** from Nelson Mandela University, I specialize in building **ML-powered solutions** using **R** and analytical tools.
 
 ---
 
-## 🚀 What I’m Working On Now  
-1. **Hybrid Recommendation Engine** — Enhancing our R-based system with collaborative + content-based hybridization  
-2. **Interactive Power BI Showcase** — Storyboarding a financial metrics dashboard for stakeholder insights  
-3. **Statistical Deep Dive** — Experimenting with logistic regression and random forests on transactional data  
+## 💼 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/1490/1490837.png" width="60"/><br>
+      <strong>Hybrid Recommender</strong><br>
+      <sub>Personalized suggestions from implicit feedback</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/2706/2706950.png" width="60"/><br>
+      <strong>Fraud Detection</strong><br>
+      <sub>Modeling rare-event detection with ensemble learning</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/2344/2344554.png" width="60"/><br>
+      <strong>Power BI Dashboard</strong><br>
+      <sub>Storytelling with interactive financial metrics</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Let’s Connect  
-Whether you want to geek out about correlation matrices, debate the merits of tidy vs. tidyverse, or brainstorm your next data project—drop me a line!  
-- **Email:** s225171406@mandela.ac.za  
-- **LinkedIn:** <https://www.linkedin.com/in/lesley-ngcobo-449b88240/>  
-- **Stack Overflow:** <https://stackoverflow.com/users/29920769/lesley>  
+## ⚙️ What I'm Working On
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="50"/><br>
+      <strong>Collaborative Filtering</strong><br>
+      <sub>User-based and item-based models</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/907/907717.png" width="50"/><br>
+      <strong>Logistic Regression</strong><br>
+      <sub>Baseline classifiers for tabular data</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3932/3932735.png" width="50"/><br>
+      <strong>Model Evaluation</strong><br>
+      <sub>Comparing accuracy, AUC, and recall</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔧 Toolbox  
-<div align="center">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge" alt="Tidyverse">
-  <img src="https://img.shields.io/badge/ggplot2-3A7DB1?style=for-the-badge" alt="ggplot2">
-  <img src="https://img.shields.io/badge/dplyr-1A162D?style=for-the-badge" alt="dplyr">
-  <img src="https://img.shields.io/badge/recommenderlab-1A85FF?style=for-the-badge" alt="recommenderlab">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-</div>
+## 📊 Core Skills & Toolbox
+
+<table>
+  <tr>
+    <td align="center" width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/><br>
+      <strong>R</strong>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://dplyr.tidyverse.org/logo.png" width="50"/><br>
+      <strong>dplyr</strong>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/><br>
+      <strong>Tidyverse</strong>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://ggplot2.tidyverse.org/logo.png" width="50"/><br>
+      <strong>ggplot2</strong>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/><br>
+      <strong>recommenderlab</strong>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/><br>
+      <strong>SQL Server</strong>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/><br>
+      <strong>RStudio</strong>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50"/><br>
+      <strong>MySQL</strong>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" width="50"/><br>
+      <strong>Power BI</strong>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="50"/><br>
+      <strong>Excel</strong>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
-## 📊 GitHub Snapshot  
+## 🧠 Learning Goals
+
+- 🔍 Deepen understanding of **hybrid recommender architectures**  
+- 🌲 Explore **random forests** for tabular predictions  
+- 📚 Improve **model explainability** for high-stakes applications  
+- 🔁 Advance into **time-series rolling forecasting** & monitoring  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **s225171406@mandela.ac.za**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lesley-ngcobo-449b88240/)  
+- 💬 [Stack Overflow](https://stackoverflow.com/users/29920769/lesley)
+
+---
+
+## 📈 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lesley-2198&theme=dark&show_icons=true&count_private=true" alt="Lesley's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lesley-2198&theme=react&show_icons=true&count_private=true" alt="Lesley's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesley-2198&layout=compact&theme=react" alt="Top Languages">
 </p>
 
 ---
 
-> “In God we trust. All others must bring data.” – W. Edwards Deming
-
-*Let’s dive into data together!* 🚀  
-
+<div align="center">
+  <img src="https://github.com/ashutosh1919/ashutosh1919/raw/master/assets/line.gif" width="100%" />
+  <strong><em>“The best models aren't just accurate—they're understood.”</em></strong><br>
+  *Let’s turn insight into action with data-driven intelligence.* 🧠📊
+</div>
