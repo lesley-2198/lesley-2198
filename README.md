@@ -147,6 +147,6 @@
 
 <div align="center">
   <img src="https://github.com/ashutosh1919/ashutosh1919/raw/master/assets/line.gif" width="100%" />
-  <strong><em>“The best models aren't just accurate—they're understood.”</em></strong><br>
+  <strong><em>“The best models aren't just accurate - they're understood.”</em></strong><br>
   *Let’s turn insight into action with data-driven intelligence.* 🧠📊
 </div>
