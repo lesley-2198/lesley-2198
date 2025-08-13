@@ -26,7 +26,7 @@
 ## 🧠 About Me
 <div style="background: #f8f9fa; padding: 20px; border-radius: 15px; border-left: 5px solid #667eea;">
   <p style="font-size: 1.1em; margin: 0;">
-    🎓 <strong>Academic Foundation:</strong> Information Technology graduate from Nelson Mandela University<br>
+    🎓 <strong>Academic Foundation:</strong> Information Technology student at Nelson Mandela University<br>
     🔬 <strong>Specialization:</strong> ML-powered solutions, statistical modeling, and data storytelling<br>
     🛠️ <strong>Core Philosophy:</strong> "The best models aren't just accurate - they're understood"<br>
     🌟 <strong>Vision:</strong> Democratizing AI through interpretable machine learning
