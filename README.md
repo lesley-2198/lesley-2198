@@ -6,7 +6,17 @@
   <h1>👋 Hey, I'm Lesley Ngcobo</h1>
   <p>
     <strong>Data Scientist · Machine Learning Explorer · R Enthusiast</strong><br>
-    <img src="https://img.shields.io/badge/Email-s225171406@mandela.ac.za-blue?style=flat-square" />
+    <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
+    <a href="mailto:s225171406@mandela.ac.za">
+      <img src="https://img.shields.io/badge/📧_Email-s225171406@mandela.ac.za-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/lesley-ngcobo-449b88240/">
+      <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://stackoverflow.com/users/29920769/lesley">
+      <img src="https://img.shields.io/badge/��_Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+    </a>
+  </div>
   </p>
   <img src="https://raw.githubusercontent.com/roshanlam/roshanlam/master/assets/matrix.gif" width="250" alt="matrix gif"/>
 </div>
@@ -14,8 +24,14 @@
 ---
 
 ## 🧠 About Me
-🚀 I'm an aspiring Data Scientist blending statistics, machine learning, and storytelling to solve real-world problems through data.  
-🎓 With a foundation in **Information Technology** from Nelson Mandela University, I specialize in building **ML-powered solutions** using **R** and analytical tools.
+<div style="background: #f8f9fa; padding: 20px; border-radius: 15px; border-left: 5px solid #667eea;">
+  <p style="font-size: 1.1em; margin: 0;">
+    🎓 <strong>Academic Foundation:</strong> Information Technology graduate from Nelson Mandela University<br>
+    🔬 <strong>Specialization:</strong> ML-powered solutions, statistical modeling, and data storytelling<br>
+    🛠️ <strong>Core Philosophy:</strong> "The best models aren't just accurate - they're understood"<br>
+    🌟 <strong>Vision:</strong> Democratizing AI through interpretable machine learning
+  </p>
+</div>
 
 ---
 
@@ -127,14 +143,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 Email: **s225171406@mandela.ac.za**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lesley-ngcobo-449b88240/)  
-- 💬 [Stack Overflow](https://stackoverflow.com/users/29920769/lesley)
-
----
-
 ## 📈 GitHub Insights
 
 <p align="center">
@@ -145,8 +153,29 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/ashutosh1919/ashutosh1919/raw/master/assets/line.gif" width="100%" />
-  <strong><em>“The best models aren't just accurate - they're understood.”</em></strong><br>
-  *Let’s turn insight into action with data-driven intelligence.* 🧠📊
+<div align="center" style="background: linear-gradient(45deg, #1a1a1a, #2a2a2a); padding: 30px; border-radius: 15px; border: 2px solid #00ff41; margin: 30px 0;">
+  <img src="https://github.com/ashutosh1919/ashutosh1919/raw/master/assets/line.gif" width="100%" style="border-radius: 10px;"/>
+  
+  <div style="margin: 20px 0;">
+    <blockquote style="font-style: italic; font-size: 1.3em; color: #00ff41; margin: 0; text-align: center;">
+      <strong>"The best models aren't just accurate - they're understood."</strong>
+    </blockquote>
+  </div>
+  
+  <p style="color: #f0f0f0; font-size: 1.1em; margin: 10px 0 0 0; text-align: center;">
+    <em>Let's turn insight into action with data-driven intelligence.</em> 📊
+  </p>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=lesley-2198&style=flat-square&color=00ff41" alt="Profile Views" />
+  </div>
+</div>
+
+---
+
+<div align="center" style="margin-top: 50px;">
+  <p style="color: #666; font-size: 0.9em;">
+    <strong>Made with ❤️ by Lesley Ngcobo | Data Scientist & ML Engineer</strong><br>
+    <em>Last updated: August 2025</em>
+  </p>
 </div>
