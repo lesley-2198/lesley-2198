@@ -76,6 +76,17 @@
 
 </div>
 
+### 🔑 Project Impact Highlights  
+
+- **DataQuest Recommender:**  
+  🏆 Item-Based Collaborative Filtering (IBCF) outperformed all models with **22× higher precision** and **15× higher recall** than UBCF.  
+  🌍 Final deployed **Full Hybrid** balanced accuracy with contextual signals (region + season) for real-world adaptability.  
+
+- **Fraud Detection System:**  
+  ⚡ **XGBoost** achieved **79% recall** and **94% precision**, minimizing false alarms while catching most fraud cases.  
+  📈 Improved recall by ~17% compared to baseline logistic regression, making fraud detection both accurate and practical.  
+
+
 ---
 
 ## 🛠️ Technical Arsenal
