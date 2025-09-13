@@ -204,50 +204,9 @@ graph TD
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lesley-2198&theme=react&show_icons=true&count_private=true&include_all_commits=true&custom_title=Lesley's%20GitHub%20Statistics" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesley-2198&layout=compact&theme=react&custom_title=Most%20Used%20Languages" alt="Top Languages">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lesley-2198&theme=react&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesley-2198&custom_title=Contribution%20Activity&theme=react-dark&hide_border=false&radius=16" alt="Contribution Graph" />
 </div>
-
----
-
-## 🚀 2025 Learning Roadmap
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="50"/><br>
-      <strong>🎯 Advanced Hybrid Systems</strong><br>
-      <sub>Deep learning for recommendation engines</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3932/3932735.png" width="50"/><br>
-      <strong>📊 Model Explainability</strong><br>
-      <sub>SHAP, LIME, and interpretable ML</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="50"/><br>
-      <strong>⏰ Time-Series Forecasting</strong><br>
-      <sub>Rolling predictions & monitoring systems</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/1067/1067566.png" width="50"/><br>
-      <strong>☁️ MLOps & Deployment</strong><br>
-      <sub>Production-ready ML pipelines</sub>
-    </td>
-  </tr>
-</table>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%"/>
